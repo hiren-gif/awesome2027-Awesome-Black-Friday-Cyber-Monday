@@ -111,6 +111,7 @@ Total deals: 258
 | 🖥️ | [NightShiftKeeper](https://nightshiftkeeper.com/) | Keeps macOS Night Shift always on. | Buy Once, Use Forever, 20% off with discount code **BLACKFRIDAY** |
 | 🔥 | [TestDino](https://testdino.com/) | Smart Playwright Test Reporting and Analytics | **30% discount** on yearly Team plan with discount code **BFTD2025** |
 | 🎥 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Buy Once, Use Forever, 30% off with discount code **BLACKFRIDAY2025** |
+| 🖥️ | [CtrlOps](https://ctrlops.io/pricing?utm_source=awesome2027&utm_medium=referral&utm_campaign=bfcm2026) | Deploy, debug, manage and audit Linux servers with AI, from one local-first desktop app. Mac, Windows, Linux. | **31% OFF** all Yearly and Lifetime plans with code **BFCM31**, kept on every Yearly renewal: Personal Yearly ~~$90~~ **$62.10**/yr, Lifetime ~~$349~~ **$240.81**; Team (5 seats) Yearly ~~$390~~ **$269.10**/yr, Lifetime ~~$849~~ **$585.81**. Nov 21 - Dec 2, 2026 |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
